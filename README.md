@@ -18,7 +18,8 @@ Foram respondidas as seguintes perguntas de negócio:
 10- Considerando o produtor que mais participou da produção de animes, qual a média de score, popularidade e membros?
 
 <p align="center">
-  <img src="https://github.com/enilaester/Resilia-Modulo1-Chatbot/blob/1c59e7020f9217143ccd177870cd49c4cdab7b55/Capa%20-%20Apresenta%C3%A7%C3%A3o.png">
+imagens/ImagemAnime.jpg
+  <img src="https://github.com/jaquelinesindie/AnaliseDeAnimes/blob/main/imagens/ImagemAnime.jpg">
 </p>
 
 ### 🚀 <strong>Tecnologias utilizadas </strong>
@@ -56,7 +57,3 @@ Logo em seguida, chame o jupyter notebook para ser direcionado:
 ```shell
 jupyter notebook
 ```
-
-
-
-
